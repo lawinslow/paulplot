@@ -1,0 +1,16 @@
+Package: paulplot
+Title: Paul Reneau plotting package
+Maintainer: Luke Winslow <lwinslow@usgs.gov>
+Version: 0.0.1
+Author: Luke Winslow
+Description: Standard tools for plotting limno shuttle data
+Imports:
+    leaflet,
+    reshape2
+Suggests:
+    testthat
+License: GPL (>= 2)
+Packaged: 2016-04-29 09:09:24 UTC; Luke
+Repository: https://github.com/lawinslow/pauplot
+Date/Publication: 2016-04-29 09:09:24
+RoxygenNote: 5.0.1
